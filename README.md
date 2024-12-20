@@ -105,11 +105,3 @@ Area = 18.
 `scheme --load full.scm > your-output.txt`
 
 
-
-
-`(square-perimeter point1 point2 point3 point4)` | 10
-`(square-area point1 point2 point3 point4)` | 10
-`(process-square point1 point2 point3 point4)` | 15
-`(process-triangle point1 point2 point3)` | 15
-
-**Note:** Check out the sample output and test provided to see the likely test cases that your code is going to be graded on.
